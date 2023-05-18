@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANWAR8811
-- 👀 I’m interested in ... machine learning
+- 👀 I’m interested in ... Machine Learning & AI & Blockchain & Web-designing
 - 🌱 I’m currently learning ... pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ranakrphone@gmail.com
