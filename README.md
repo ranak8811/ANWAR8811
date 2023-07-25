@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANWAR8811
-- 👀 I’m interested in ... AI, Machine Learning, Blockchain, Web-designing
+- 👀 I’m interested in ... AI, Machine Learning, Blockchain, Web-designing, App-Development
 - 🌱 I’m currently learning ... Pyhton, C, C++, Java, HTML, CSS, JavaScript, Solidity...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ranakrphone@gmail.com
